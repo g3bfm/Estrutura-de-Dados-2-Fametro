@@ -13,4 +13,5 @@ int main(){
     printf("Valor apontado pelo ponteiro: %d\n", *ponteiro);
 
     return 0;
+
 }
